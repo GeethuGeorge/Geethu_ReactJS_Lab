@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Geethu_ReactJS_Lab/static/css/main.47a7bb5b.css",
+    "main.js": "/Geethu_ReactJS_Lab/static/js/main.a4c9a9ff.js",
+    "static/js/787.afd34582.chunk.js": "/Geethu_ReactJS_Lab/static/js/787.afd34582.chunk.js",
+    "index.html": "/Geethu_ReactJS_Lab/index.html",
+    "main.47a7bb5b.css.map": "/Geethu_ReactJS_Lab/static/css/main.47a7bb5b.css.map",
+    "main.a4c9a9ff.js.map": "/Geethu_ReactJS_Lab/static/js/main.a4c9a9ff.js.map",
+    "787.afd34582.chunk.js.map": "/Geethu_ReactJS_Lab/static/js/787.afd34582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47a7bb5b.css",
+    "static/js/main.a4c9a9ff.js"
+  ]
+}
